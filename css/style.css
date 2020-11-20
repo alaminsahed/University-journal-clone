@@ -2088,6 +2088,7 @@ textarea.form-control {
   font-weight: 400;
   color: #212529;
   text-align: center;
+  position: absolute;
   vertical-align: middle;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -8262,7 +8263,7 @@ h1, h2, h3, h4, h5,
 #sidebar {
   min-width: 250px;
   max-width: 250px;
-  background: rgb(189, 182, 182);
+  background: #e6e6d8;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -8290,7 +8291,7 @@ h1, h2, h3, h4, h5,
     #sidebar ul li a {
       padding: 10px 0;
       display: block;
-      color: green;
+       color: #078364;
       font-family: "Roboto Slab", serif;
       font-size: 14px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
